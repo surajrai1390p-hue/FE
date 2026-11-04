@@ -576,3 +576,6 @@ and MySQL database run on Kali Linux. ngrok provides a public URL that
 forwards requests to the local Apache server. When a user submits the
 contact form, PHP receives the data and stores it in the MySQL
 `contacts` table.
+
+
+sudo mv ngrok /usr/local/bin
